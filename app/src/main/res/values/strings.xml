@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">懒人闹钟</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="time">所用时间为：$秒</string>
+    <string name="quit">退出</string>
+    <string name="sure_quit">确定退出游戏？</string>
+    <string name="alert_dialog_ok">确定</string>
+    <string name="alert_dialog_cancel">取消</string>
+</resources>
